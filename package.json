@@ -1,8 +1,8 @@
 {
   "name": "toll-scroll",
-  "description": "Xのタイムライン向けのChrome拡張機能（最小構成）",
+  "description": "Xのタイムラインスクロールに摩擦を与える通行料ゲージ拡張機能",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "type": "module",
   "scripts": {
