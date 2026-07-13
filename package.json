@@ -1,6 +1,6 @@
 {
   "name": "toll-scroll",
-  "description": "Xのタイムラインスクロールに摩擦を与える通行料ゲージ拡張機能",
+  "description": "Twitter無限スクロール防止拡張機能",
   "private": true,
   "version": "0.2.0",
   "license": "MIT",

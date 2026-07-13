@@ -96,7 +96,7 @@ const TEMPLATE = `
     <div class="card">
       <div class="section-confirm">
         <p class="message">まだ見る？</p>
-        <p class="submessage">スクロール量が今日の通行料を超えました</p>
+        <p class="submessage">スクロール量が今日の上限を超えました</p>
         <div class="actions">
           <button type="button" class="btn-continue">続ける</button>
           <button type="button" class="btn-stop">休憩する</button>
