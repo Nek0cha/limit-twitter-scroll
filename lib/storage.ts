@@ -24,7 +24,7 @@ export interface TollScrollSessionState {
 }
 
 export const DEFAULT_SETTINGS: TollScrollSettings = {
-  baseThreshold: 3000,
+  baseThreshold: 8000,
   incrementRate: 0.2,
   blurOnStop: true,
 };
